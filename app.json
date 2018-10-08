@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "stopwatch",
-    "description": "This project is really great.",
+    "description": "A simple stopwatch",
     "slug": "stopwatch",
     "privacy": "public",
     "sdkVersion": "30.0.0",
